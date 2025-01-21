@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+.env
+loginAuth.json
+/test-reports/
+/auth/
+/other-tests/
+.github/workflows
+/testrail-results/
+/tests-examples/
+.DS_Store
