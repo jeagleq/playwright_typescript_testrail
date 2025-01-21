@@ -29,11 +29,12 @@ This project is a comprehensive **Playwright Testing** solution, combining UI an
 
 ## 📦 Installation
 
-Use the package manager [npm] to install playwright
+1. Use the package manager [npm] to install playwright
 
 ```Shell
 npm i && npx playwright install
 ```
+2. Register new user on demoblaze and input the username and password to the .env file
 
 ## 🚀 Run tests
 
