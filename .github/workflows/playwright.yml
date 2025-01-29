@@ -10,7 +10,8 @@ jobs:
     env:
       USER_NAME: ${{ secrets.USER_NAME }}
       PASSWORD: ${{ secrets.PASSWORD }}
-      ENV_NAME: ${{ secrets.ENV_NAME }}
+      ENV_NAME: ${{ vars.ENV_NAME }}
+      ENV_NAME_API: ${{ vars.ENV_NAME_API }}
 
     steps:
       - name: Checkout code
