@@ -8,7 +8,6 @@ loginAuth.json
 /test-reports/
 /auth/
 /other-tests/
-.github/workflows
 /testrail-results/
 /tests-examples/
 .DS_Store
